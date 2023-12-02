@@ -1,0 +1,6 @@
+{
+    "image": "erlang",
+    "name": "learning-erlang",
+    "onCreateCommand": "erl --version",
+    "forwardPorts": [4000]
+}
